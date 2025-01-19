@@ -54,9 +54,6 @@ python upload_automation.py
 curl -X POST -F imageFile=@/path/to/your/image.jpg <upload_url>
 ```
 
-## Deliverables
-1. The Python script (`upload_automation.py`) is included in this repository.
-2. After configuring and testing the script, push changes to your GitHub repository.
-3. Share the repository link via the provided Google Form.
+
 
 
